@@ -14,4 +14,6 @@ def link
 end
 
 def any-phrase
-  
+  phrase = "Do A Barrel Roll!"
+  puts = phrase 
+end
