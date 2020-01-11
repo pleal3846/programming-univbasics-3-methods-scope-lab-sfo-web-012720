@@ -13,5 +13,5 @@ def link
 end
 blue = "Do A Barrel Roll!"
 def any_phrase(blue)
-  puts = blue
+  puts blue
 end
